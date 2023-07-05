@@ -3,7 +3,6 @@ package com.br.swagger.adapters.in.controller;
 import com.br.swagger.adapters.in.controller.requestDTO.CustomerRequestDTO;
 import com.br.swagger.adapters.in.controller.responseDTO.CustomerResponseDTO;
 import com.br.swagger.application.core.model.Customer;
-import com.br.monitoring.observability.application.ports.in.*;
 import com.br.swagger.application.ports.in.*;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
